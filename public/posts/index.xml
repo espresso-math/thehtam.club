@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The High Temple of Amm</title>
+    <link>http://thehtam.club/posts/</link>
+    <description>Recent content in Posts on The High Temple of Amm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Oct 2017 14:47:21 +0530</lastBuildDate>
+    
+	<atom:link href="http://thehtam.club/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://thehtam.club/posts/my-first-post/</link>
+      <pubDate>Tue, 03 Oct 2017 14:47:21 +0530</pubDate>
+      
+      <guid>http://thehtam.club/posts/my-first-post/</guid>
+      <description>こんにちは,
+This is my first blog post. Just a test… Just a test…</description>
+    </item>
+    
+  </channel>
+</rss>
